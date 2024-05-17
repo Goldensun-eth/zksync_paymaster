@@ -1,0 +1,15 @@
+{
+  "name": "zksync_paymaster",
+  "version": "1.0.0",
+  "description": "[YouTube video](https://www.youtube.com/watch?v=7rC9rjPtxBs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zksync-ethers": "^6.7.1"
+  }
+}

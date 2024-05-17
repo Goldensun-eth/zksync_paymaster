@@ -1,0 +1,12 @@
+package-lock.json
+node_modules/
+.env
+dist/
+build/
+.DS_Store
+*.log
+.vscode/
+*.pyc
+__pycache__/
+zksolc-macosx-amd64-v1.4.1
+artifacts
